@@ -1,0 +1,44 @@
+.congress_info{
+    text-align: center;
+    margin:20px;
+    background-color: #3474eb;
+    color:white;
+    font-size:24px;
+}
+.congress_committee{
+    border:5px solid blue;
+    font-size: 24px;
+    padding-bottom:10px;
+    background-color: #F0FFF0;
+}
+.congress_committee--list{
+    display:flex;
+    justify-content: space-around;
+}
+.congress_legislation{
+    font-size:20px;
+    background-color: #F0FFF0;
+    border:5px solid blue;
+    padding:3px;
+    margin:5px;
+}
+.congress_legislation--law{
+    margin: 5px;
+}
+.capitalpic{
+    width:40%;
+    padding-bottom:5%
+}
+.congress_flag{
+    width:20%;
+    position:absolute;
+    margin:20px;
+    float:center;
+}
+.congress_bio{
+    font-size: 20px;
+    border:5px solid blue;
+    margin:5px;
+    padding:3px;
+    background-color: #F0FFF0;
+}
